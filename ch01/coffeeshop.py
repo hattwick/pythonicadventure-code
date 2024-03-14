@@ -1,4 +1,4 @@
-print("Welcome to Erik's Coffee Shop!")
+print("Welcome to The Coffee Shop!")
 
 name = input("Please enter your name: ")
 drink = input("Please enter your drink: ")
